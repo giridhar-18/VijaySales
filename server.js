@@ -26,9 +26,9 @@ app.get("/aboutus",(req, res)=>{
             +"<h3>Doing ordinary things extraordinarily</h3>"
             + "<br/>"
             + "<ol>"
-            +"<li>Chief Mentor: Ravi Tambade</li>"
-            +"<li>Director: Shubhangi Tambade</li>"
-            +"<li>Subject Matter Expert: Rohit Gore</li>"
+            +"<li>Chief Mentor: Giridhar Gavali</li>"
+            +"<li>Director: Ravi Tambade</li>"
+            +"<li>Subject Matter Expert: Mddy</li>"
             + "</ol>"
     );
 });
