@@ -1,0 +1,23 @@
+{
+  "name": "vijaysales",
+  "version": "1.0.0",
+  "description": "this repositery contains containerized node js expresjs for online shopping",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giridhar-18/VijaySales.git"
+  },
+  "author": "giridhar Gavali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giridhar-18/VijaySales/issues"
+  },
+  "homepage": "https://github.com/giridhar-18/VijaySales#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
